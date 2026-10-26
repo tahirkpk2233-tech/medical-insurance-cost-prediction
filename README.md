@@ -1,2 +1,22 @@
-# medical-insurance-cost-prediction
-Predicting medical insurance charges with Linear Regression, featuring EDA, feature engineering, and Pearson/Chi-square feature selection (adjusted R² of about 0.80).  Topics (tags): machine-learning, linear-regression, regression, scikit-learn, python, pandas, data-analysis, feature-engineering, jupyter-notebook, healthcare
+# Medical Insurance Cost Prediction
+
+Predicts medical insurance charges using Linear Regression.
+
+## Dataset
+insurance.csv (add the source here, e.g. Kaggle)
+
+## Methods
+- Exploratory data analysis
+- Feature engineering
+- Feature selection (Pearson and Chi-square)
+- Linear Regression
+
+## Result
+Adjusted R² of about 0.80
+
+## Tools
+Python, Pandas, NumPy, scikit-learn, Seaborn, Jupyter
+
+## Files
+- medical-insurance-cost-prediction.ipynb: full analysis
+- insurance.csv: dataset
