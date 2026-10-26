@@ -3,7 +3,7 @@
 Predicts medical insurance charges using Linear Regression.
 
 ## Dataset
-insurance.csv (add the source here, e.g. Kaggle)
+insurance.csv (kaggle)
 
 ## Methods
 - Exploratory data analysis
